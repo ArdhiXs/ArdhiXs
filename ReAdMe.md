@@ -1,3 +1,4 @@
+<!-- NYOLONG DOMSA! TUHAN MENCIPTAKAN AKAL UNTUK BERFIKIR BUKAN BUAT NGOCOK DAN NIKAH SAMA ANIMEK -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ArdhiXs/ArdhiXs/6d88e9c8d2c5db7a6643ad6bfc5f6de7e5fc6a87/ArdhiXs.svg" alt="ArdhiXs">
 </p>
