@@ -9,11 +9,11 @@
 <br> -->
 <div align="center">
 <img width="80%" src="https://i.ibb.co/j4qMb5k/1713653945502.png" />
-<p align="center">
+<!-- <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&redirect=true">
     <img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=7zvqbn3nvuqnm2ypk2ib1y1sp&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
   </a>
-</p>
+</p> -->
  
 ---
 
